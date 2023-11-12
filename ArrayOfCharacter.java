@@ -1,4 +1,4 @@
-
+//Creating the array of the characters and printing all of them.
 public class ArrayOfCharacter {
 
         public static void main(String[] args) {  

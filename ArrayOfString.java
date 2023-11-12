@@ -1,3 +1,4 @@
+//Creating the array of the String and retrieving the value of it.
 import java.util.*;
 class ArrayOfString
 {
