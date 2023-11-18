@@ -1,3 +1,4 @@
+//Question : Check whether entered year is leap or not
 import java.util.*;
 public class YearIsLeapOrNot {
     public static void main(String[] args) {
