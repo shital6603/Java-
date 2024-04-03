@@ -9,7 +9,6 @@ class Medical extends Thread {
         }
     }
 }
-
 class TestDrive extends Thread {
     public void run() {
         try {
@@ -21,7 +20,6 @@ class TestDrive extends Thread {
         }
     }
 }
-
 class OfficerSign extends Thread {
     public void run() {
         try {
@@ -33,7 +31,6 @@ class OfficerSign extends Thread {
         }
     }
 }
-
 class ShowingSleepMethod {
     public static void main(String[] args) throws Exception {
         Medical m1 = new Medical();
