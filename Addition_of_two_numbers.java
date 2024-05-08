@@ -1,5 +1,5 @@
 import java.util.*;
-class Student
+class Addition_of_two_numbers
 {
 public static void main(String args[])
   {
