@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class ArrayListMethods {
@@ -20,7 +21,7 @@ public class ArrayListMethods {
             arr.add(i);
         }
         Iterator itr = arr.iterator();
-        
+
         while (itr.hasNext()) {
             System.out.println(itr.next());
         }
